@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil😄
 
-- Meu nome e Pedro Henrique 
+Meu nome e Pedro Henrique 
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem Java Script
